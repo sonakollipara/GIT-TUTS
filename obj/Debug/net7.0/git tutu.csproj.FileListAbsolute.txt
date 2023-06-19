@@ -1,0 +1,15 @@
+C:\Users\ksona\OneDrive\Desktop\git tutu\obj\Debug\net7.0\git tutu.csproj.AssemblyReference.cache
+C:\Users\ksona\OneDrive\Desktop\git tutu\obj\Debug\net7.0\git tutu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksona\OneDrive\Desktop\git tutu\obj\Debug\net7.0\git tutu.AssemblyInfoInputs.cache
+C:\Users\ksona\OneDrive\Desktop\git tutu\obj\Debug\net7.0\git tutu.AssemblyInfo.cs
+C:\Users\ksona\OneDrive\Desktop\git tutu\obj\Debug\net7.0\git tutu.csproj.CoreCompileInputs.cache
+C:\Users\ksona\OneDrive\Desktop\git tutu\bin\Debug\net7.0\git tutu.exe
+C:\Users\ksona\OneDrive\Desktop\git tutu\bin\Debug\net7.0\git tutu.deps.json
+C:\Users\ksona\OneDrive\Desktop\git tutu\bin\Debug\net7.0\git tutu.runtimeconfig.json
+C:\Users\ksona\OneDrive\Desktop\git tutu\bin\Debug\net7.0\git tutu.dll
+C:\Users\ksona\OneDrive\Desktop\git tutu\bin\Debug\net7.0\git tutu.pdb
+C:\Users\ksona\OneDrive\Desktop\git tutu\obj\Debug\net7.0\git tutu.dll
+C:\Users\ksona\OneDrive\Desktop\git tutu\obj\Debug\net7.0\refint\git tutu.dll
+C:\Users\ksona\OneDrive\Desktop\git tutu\obj\Debug\net7.0\git tutu.pdb
+C:\Users\ksona\OneDrive\Desktop\git tutu\obj\Debug\net7.0\git tutu.genruntimeconfig.cache
+C:\Users\ksona\OneDrive\Desktop\git tutu\obj\Debug\net7.0\ref\git tutu.dll
